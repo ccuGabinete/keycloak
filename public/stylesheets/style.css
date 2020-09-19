@@ -1,0 +1,430 @@
+
+.divanonimamotivo{
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+
+.divacompanharreconsideracao {
+	margin-top: 2rem;
+}
+
+.inputImagem {
+	padding-bottom: 2rem;
+}
+
+.divimagens {
+	margin-top: 1.5rem;
+}
+
+.areadocumentos {
+	margin-bottom: 1rem;
+	font-size: 0.9 rem;
+}
+
+.areadaimagem {
+	padding: 1rem 4rem 1rem 4rem;
+}
+
+.botaotaxa {
+	padding: 1em 3em 0 3em;
+}
+
+.avisotaxa {
+	margin-top: 1em !important;
+	text-align: justify;
+}
+
+.detalhamentoConsulta {
+	padding: 1em;
+	color: #8DB6CD;
+}
+
+.coluna {
+	text-align: center;
+	background: #17a2b8;
+	color: white;
+}
+
+.divButtonListas {
+	margin-top: 1em;
+}
+
+.divlistas {
+	padding: 0.7em;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #0bb975;
+	margin-bottom: 1em;
+}
+
+#conteudo-card {
+	text-align: center;
+}
+
+th {
+	color: white;
+	text-align: center;
+}
+
+.paginacards {
+	color: black;
+	font-weight: bolder;
+	font-size: 1.2em;
+	display: block;
+	text-align: center;
+}
+
+.datasolicitacao {
+	color: #8DB6CD;
+	font-size: 1.2em;
+	display: block;
+}
+
+.statussolicitacao {
+	color: #228B22;
+	font-size: 1.2em;
+	display: block;
+}
+
+.sucesso {
+	margin-top: 25%;
+	text-align: center;
+}
+
+.sucesso-titulo {
+	color: #8DB6CD;
+	font-size: 4em;
+}
+
+.sucesso-texto {
+	color: #0bb975;
+	font-size: 1.5em;
+}
+
+.btn-info {
+	margin: 0.5em 0 0.5em 0;
+}
+
+#listas {
+	overflow: auto;
+	height: 24em;
+}
+
+#descricaolacre {
+	margin-bottom: 1em;
+	background: red;
+}
+
+.situacao {
+	color: #0bb975;
+}
+
+#logado {
+	text-align: right;
+	font-weight: lighter;
+	color: #8DB6CD;
+}
+
+
+td {
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	border-style: solid;
+	border-width: 0.2em;
+}
+
+td:first-child {
+	background: black;
+}
+
+col:first-child {
+	background: black;
+}
+
+col:nth-child(2n+3) {
+	background: #B0E2FF;
+}
+
+col:nth-child(2n+2) {
+	background: #8DB6CD
+}
+
+.solcitacoesandantes {
+	overflow: scroll;
+}
+
+.cabecalhoinicial {
+	text-align: justify;
+}
+
+.avisos {
+	text-align: justify;
+	border-style: solid;
+	border-width: 1px;
+	padding: 1em;
+}
+
+.cabecalhosecundario {
+	margin-top: 1em;
+	border-style: solid;
+	border-width: 1px;
+	padding: 1em;
+	height: 38rem;
+}
+
+.conteudosolicitacao {
+	padding: 1em;
+	margin-top: 1em;
+	border-style: solid;
+	border-width: 1px;
+	height: 38rem !important;
+	overflow: auto;
+}
+
+#conteudo-decisao{
+	text-align: center;
+}
+
+.confirmacaodepagamento {
+	text-align: center;
+	background: #86cfda;
+	color: white;
+	font-size: 0.75em;
+	padding: 2em; 
+	margin-top: 2em;
+}
+
+
+/* .btn-info {
+	border: solid 3px #0bb975;
+	padding: 8px 59px 9px 18px;
+	margin-right: 22px;
+	margin-bottom: 10px;
+	border-radius: 22.7px;
+	background-color: #0bb975;
+	display: inline-block;
+	font-family: "museo_sans500", sans-serif;
+	font-size: 19px;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+	color: #fff !important;
+}
+
+.btn-info:hover {
+	border: solid 3px #0bb975;
+	padding: 8px 59px 9px 18px;
+	margin-right: 22px;
+	margin-bottom: 10px;
+	border-radius: 22.7px;
+	background-color: #fff;
+	display: inline-block;
+	font-family: "museo_sans500", sans-serif;
+	font-size: 19px;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+	color: #0bb975;
+} */
+
+.listaRespostaLacre {
+	list-style-type: circle;
+}
+
+.divRespostaLacre {
+	background: white;
+}
+
+.form-control-plaintext {
+	border-style: solid;
+	border-width: 1px;
+	border-color: blue;
+}
+
+.lableSolicitacoes {
+	background: #008eb7;
+	color: white;
+	font-size: 0.9em !important;
+	padding: 5px 5px 0 15px;
+	text-align: center;
+}
+
+.list-group-item {
+	font-size: 0.6em !important;
+}
+
+.list-group-item:hover {
+	background: #138496;
+	color: white
+}
+
+.header {
+	margin: 1em 1em 0 1em !important;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #999999;
+	text-align: justify;
+}
+
+.subheader {
+	margin: 1em 1em 0 1em !important;
+}
+
+.nav {
+	width: 95%;
+	padding-left: 15px;
+	padding-bottom: 15px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #999999;
+	text-align: center;
+}
+
+.content {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #999999;
+	margin-left: 0.5rem !important;
+}
+
+.informacoes {
+	text-align: center;
+	color: #02B0D6;
+}
+
+.solicitacoes {
+	color: #02B0D6;
+}
+
+.alerta {
+	color: red;
+}
+
+@media (min-width: 10px) {
+	.container-fluid {
+		font-size: 0.5em !important;
+	}
+	h5 {
+		font-size: 0.7rem !important;
+	}
+	.solicitacoes {
+		font-size: 0.7em !important;
+	}
+	.btn-info {
+		font-size: 0.5em !important;
+	}
+}
+
+@media (min-width: 240px) {
+	.container-fluid {
+		font-size: 0.8em !important;
+	}
+	h5 {
+		font-size: 0.8rem !important;
+	}
+	.solicitacoes {
+		font-size: 0.7em !important;
+	}
+	.btn-info {
+		font-size: 0.5em !important;
+	}
+}
+
+@media (min-width: 360px) {
+	.container-fluid {
+		font-size: 0.9em !important;
+	}
+	h5 {
+		font-size: 0.9rem !important;
+	}
+	.solicitacoes {
+		font-size: 0.7em !important;
+	}
+	.btn-info {
+		font-size: 0.5em !important;
+	}
+}
+
+@media (min-width: 480px) {
+	.container-fluid {
+		font-size: 1em !important;
+	}
+	h5 {
+		font-size: 1rem !important;
+	}
+	.solicitacoes {
+		font-size: 0.7em !important;
+	}
+	.btn-info {
+		font-size: 0.6em !important;
+	}
+}
+
+@media (min-width: 576px) {
+	.container-fluid {
+		font-size: 1em !important;
+	}
+	h5 {
+		font-size: 1.1rem !important;
+	}
+	.solicitacoes {
+		font-size: 0.8em !important;
+	}
+	.btn-info {
+		font-size: 0.5em !important;
+	}
+}
+
+@media (min-width: 768px) {
+	.container-fluid {
+		font-size: 1.1em !important;
+	}
+	h5 {
+		font-size: 1.2rem !important;
+	}
+	.solicitacoes {
+		font-size: 0.8em !important;
+	}
+	.btn-info {
+		font-size: 0.6em !important;
+	}
+}
+
+@media (min-width: 992px) {
+	.container-fluid {
+		font-size: 1.1em !important;
+	}
+	h5 {
+		font-size: 1.3rem !important;
+	}
+	.solicitacoes {
+		font-size: 0.9em !important;
+	}
+	.btn-info {
+		font-size: 0.6em !important;
+	}
+}
+
+@media (min-width: 1200px) {
+	.container-fluid {
+		font-size: 1.2em !important;
+	}
+	h5 {
+		font-size: 1.4rem !important;
+	}
+	.solicitacoes {
+		font-size: 1em !important;
+	}
+	.btn-info {
+		font-size: 0.6em !important;
+	}
+}
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600);

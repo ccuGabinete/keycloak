@@ -1,0 +1,38 @@
+{
+    "exp": 1600414437,
+    "iat": 1600413837,
+    "jti": "c71d1bc5-a1e1-4de8-82be-4fb319dc8d97",
+    "iss": "http://localhost:8080/auth/realms/scub",
+    "aud": "account",
+    "sub": "e0231c5b-9afc-4aa6-b587-6bb23f9b9786",
+    "typ": "Bearer",
+    "azp": "scub-dev",
+    "session_state": "6be4ecca-6c82-47cf-a12c-c29ee727af6a",
+    "acr": "1",
+    "allowed-origins": [
+        "http://127.0.0.1:8049",
+        "http://localhost:3000"
+    ],
+    "realm_access": {
+        "roles": [
+            "offline_access",
+            "uma_authorization"
+        ]
+    },
+    "resource_access": {
+        "account": {
+            "roles": [
+                "manage-account",
+                "manage-account-links",
+                "view-profile"
+            ]
+        }
+    },
+    "scope": "openid email profile",
+    "email_verified": true,
+    "name": "nieraldo lima",
+    "preferred_username": "nieraldo",
+    "given_name": "nieraldo",
+    "family_name": "lima",
+    "email": "nieraldo@gmail.com"
+}
